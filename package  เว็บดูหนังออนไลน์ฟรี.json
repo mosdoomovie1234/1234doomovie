@@ -1,0 +1,17 @@
+{
+  "name": "{gen}",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "เว็บดูหนังออนไลน์ฟรี ดูฟรีได้ทุกเรื่องไม่ต้องเสียเงิน",
+  "keywords": [
+    "เว็บดูหนังออนไลน์ฟรี",
+    "เว็บดูหนังออนไลน์",
+    "เว็บดูหนังออนไลน์ฟรี 24 ชั่วโมง"
+  ],
+  "repository": "https://github.com/mosdoomovie1234/{repo}.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
